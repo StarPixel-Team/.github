@@ -1,2 +1,2 @@
-## Star Pixel
-欢迎来到 Star Pixel。👋
+# Pixel World
+欢迎来到 Pixel World。👋
