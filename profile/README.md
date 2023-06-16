@@ -3,14 +3,12 @@
 最后更新: 2023/06/16 23:38
 -->
 ## 前言
-大家好，我是柚子，Pixel World 管理。
-
 Pixel World 是一个 Minecraft 服务器，中文名为像素领域，其历史可以追溯到 2016 年。
 
 本文会为您介绍服务器，也可以加群了解信息：`569421891`。
 
 ## 概述
-服务器为 Paper 核心，版本支持 Minecraft: Java Edition，1.18.X - 1.19.X。
+服务器为 Paper 核心，版本支持 Minecraft: Java Edition，1.18.X - 1.19.2。
 
 强烈建议您使用 PCL2 客户端加入服务器。客户端在 QQ 群即时更新，也可以 [点此](https://github.com/StarPixel-Team/PCL-Client/archive/refs/heads/master.zip) 下载。
 
